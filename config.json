@@ -1,0 +1,12 @@
+{
+    "host": "google.com",
+    "url": "http://www.google.com",
+    "verify_ssl": true,
+    "tcp_host": "8.8.8.8",
+    "tcp_port": 53,
+    "icmp_host": "8.8.8.8",
+    "snmp_host": "8.8.8.8",
+    "snmp_port": 161,
+    "snmp_community": "public",
+    "snmp_oid": "1.3.6.1.2.1.1.1.0"
+}
